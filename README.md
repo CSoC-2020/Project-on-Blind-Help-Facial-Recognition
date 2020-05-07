@@ -1,5 +1,5 @@
 # Project-on-Blind-Help-Facial-Recognition
- facial recpgnition.. 
+ facial recognition.. 
 
 But it could be tested on a blind person.. 
 The camera just updates the image of a person mention his/her identity like a ios camera 
